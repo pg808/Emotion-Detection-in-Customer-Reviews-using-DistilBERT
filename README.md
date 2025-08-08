@@ -1,2 +1,9 @@
 # Emotion-Detection-in-Customer-Reviews-using-DistilBERT
 This project demonstrates how to fine-tune a lightweight transformer (DistilBERT) for multi-label emotion classification from customer review text. It reflects core responsibilities expected in the Data Scientist role at MavenMagnet — including LLM fine-tuning, emotion detection, data preprocessing, multi-label classification, and deployment-readiness.
+
+## How to Run
+
+1. Install dependencies:
+```bash
+pip install -r requirements.txt
+
