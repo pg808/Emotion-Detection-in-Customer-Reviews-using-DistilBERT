@@ -1,2 +1,2 @@
 # Emotion-Detection-in-Customer-Reviews-using-DistilBERT
-Fine-tuning DistilBERT for multi-label emotion detection in customer reviews using HuggingFace Transformers. Built to demonstrate LLM fine-tuning and NLP pipeline skills for the Data Scientist role at MavenMagnet.
+This project demonstrates how to fine-tune a lightweight transformer (DistilBERT) for multi-label emotion classification from customer review text. It reflects core responsibilities expected in the Data Scientist role at MavenMagnet — including LLM fine-tuning, emotion detection, data preprocessing, multi-label classification, and deployment-readiness.
