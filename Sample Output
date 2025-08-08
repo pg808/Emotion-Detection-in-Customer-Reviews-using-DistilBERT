@@ -1,0 +1,6 @@
+
+Input: I hate this product!
+Output: ['anger']
+
+Input: I'm so happy and surprised.
+Output: ['joy', 'surprise']
